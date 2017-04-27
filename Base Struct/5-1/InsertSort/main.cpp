@@ -20,7 +20,6 @@ void insertSort(int d[],int n)
 }
 int main(int argc, char *argv[])
 {
-    //cout << "Hello World!" << endl;
     int data[9] = {0,43,35,1,87,99,67,78,100};
     //遍历输入数据数组，数组大小比实际数据个数大1，data[0]为哨兵元素，用0填充9
     int length = 9;
