@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-void insertSort(int [],int);
+
 /************************插入排序***************************/
 void insertSort(int d[],int n)
 {
