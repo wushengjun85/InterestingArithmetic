@@ -22,7 +22,6 @@ void insertSort(int a[],int n)
 }
 int main(int argc, char *argv[])
 {
-    //cout << "Hello World!" << endl;
     int data[10];
     int i;
     cout<<"请输入10个整数："<<endl;
