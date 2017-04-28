@@ -5,7 +5,7 @@ using namespace std;
 void insertSort(int a[],int n)
 {
     int key = 0;
-    int i;
+    int i = 0;
     int j;
     while(i<n)
     {
