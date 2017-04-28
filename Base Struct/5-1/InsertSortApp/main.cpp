@@ -6,7 +6,7 @@ void insertSort(int a[],int n)
 {
     int key = 0;
     int i = 0;
-    int j;
+    int j = 0;
     while(i<n)
     {
         key = a[i];
