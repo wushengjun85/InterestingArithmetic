@@ -34,5 +34,6 @@ int main(int argc, char *argv[])
     cout<<"排序后的元素顺序为："<<endl;
     for(i= 0; i < 10; i++)
         cout<<data[i]<<" ";
+
     return 0;
 }
