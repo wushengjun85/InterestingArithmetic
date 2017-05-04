@@ -2,7 +2,6 @@
 using namespace std;
 void bubbleSort(int [],int);
 void swap(int *,int *);
-
 /********************交换函数**************************/
 void swap(int *a,int *b)
 {
