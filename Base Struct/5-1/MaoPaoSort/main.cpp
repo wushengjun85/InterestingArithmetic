@@ -28,7 +28,7 @@ void bubbleSort(int data[],int n)
         i++;
     }while(i < n && flag == 1);
 }
-int main(int argc, char *argv[])
+int main()
 {
     //cout << "Hello World!" << endl;
     int data[10] = {23,43,23,19,87,65,78,90,7,10};
