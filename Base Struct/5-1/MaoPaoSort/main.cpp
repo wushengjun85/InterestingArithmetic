@@ -28,9 +28,9 @@ void bubbleSort(int data[],int n)
         i++;
     }while(i < n && flag == 1);
 }
-
 int main()
 {
+    //2017.5.5
     int data[10] = {23,43,23,19,87,65,78,90,7,10};
     cout<<"排序前的数组为: "<<endl;
     for(int i = 0; i < 10; i++)
